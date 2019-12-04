@@ -9,9 +9,9 @@
 ### Does Time Matter?
 Here travelers will decide whether they want to select route which takes short time to reach or not.
 
-_*Yes*_ - Route that requires short time will be chosen.
+__*Yes*__ - Route that requires short time will be chosen.
 
-_*No*_ - Route that requires long time but more comfort will be chosen.
+__*No*__ - Route that requires long time but more comfort will be chosen.
 
 ### Try Again:
 1) When travelers cannot select desire travel mode
