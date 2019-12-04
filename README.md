@@ -1,6 +1,6 @@
 # Conceptual Decision Support System Model
 ### Conceptual model of a decision support system in which you are planning to travel from Karlskrona to Copenhagen
-###__ Concept Designed by – Suman Barua (sumanbarua576@gmail.com)
+### *Concept Designed by – Suman Barua (sumanbarua576@gmail.com)
 
 
 ![Conceptual model of a decision support system in which you are planning to travel from Karlskrona to Copenhagen](https://github.com/xtremeonecoder/conceptual-dss-model/blob/master/Conceptual-DSS-System.jpg)
