@@ -2,7 +2,9 @@
 ### Conceptual model of a decision support system in which you are planning to travel from Karlskrona to Copenhagen
 ### Concept Designed by – Suman Barua (sumanbarua576@gmail.com)
 
+
 ![Conceptual model of a decision support system in which you are planning to travel from Karlskrona to Copenhagen](https://github.com/xtremeonecoder/conceptual-dss-model/blob/master/Conceptual-DSS-System.jpg)
+
 
 ### Does Time Matter?
 Here travelers will decide whether they want to select route which takes short time to reach or not.
